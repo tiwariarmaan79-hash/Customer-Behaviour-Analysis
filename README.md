@@ -1,8 +1,8 @@
 # 🛍️ Customer Behaviour Analysis
 
 ## 📌 Project Overview
-
-This project analyzes customer shopping behaviour using **Python**, **MySQL**, and **Power BI** to identify purchasing patterns, customer preferences, and sales trends. The project follows a complete end-to-end data analytics workflow, starting from raw data preprocessing to interactive dashboard development.
+This project is an End-to-End Data Analytics Project that analyzes bank loan data using **Python**, **MySQL**, and **Power BI**.
+This project analyzes customer shopping behaviour to identify purchasing patterns, customer preferences, and sales trends. The project follows a complete end-to-end data analytics workflow, starting from raw data preprocessing to interactive dashboard development.
 
 The objective is to transform raw customer transaction data into actionable business insights that can help organizations understand customer behaviour and make data-driven decisions.
 
@@ -151,4 +151,4 @@ This project demonstrates an end-to-end customer analytics workflow by combining
 
 **Armaan Tiwari**
 
-Aspiring Data Analyst passionate about Python, SQL, Power BI, Excel, and Data Visualization.
+Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization.
